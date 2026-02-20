@@ -1,4 +1,5 @@
-# AWS EKS: Deployment & Minimum Availability
+# AWS EKS: Deployment
+# Video Tutorial
 
 This repository contains resources and guides based on the video tutorial regarding how to manage deployment availability within **Amazon EKS**.
 
